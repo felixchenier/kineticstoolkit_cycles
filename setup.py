@@ -5,11 +5,11 @@ import setuptools
 #--------------------------------------------------------------------------------
 # Please modify to fit your extension (particularly the text in CAPITALS)
 #--------------------------------------------------------------------------------
-name = "kineticstoolkit_EXTENSIONNAME"
-description = "An extension to Kinetics Toolkit"
-url = "https://github.com/GITHUBUSER/kineticstoolkit_EXTENSIONNAME"
-author = "AUTHORNAME"
-author_email = "AUTHOREMAIL"
+name = "kineticstoolkit_cycles"
+description = "Development module for kineticstoolkit.cycles"
+url = "https://github.com/felixchenier/kineticstoolkit_cycles"
+author = "Félix Chénier"
+author_email = "chenier.felix@uqam.ca"
 #--------------------------------------------------------------------------------
 # It may be advised to avoid modifying the rest of this file.
 #--------------------------------------------------------------------------------
@@ -32,5 +32,5 @@ setuptools.setup(
     setup_requires=['setuptools_scm'],
     packages=setuptools.find_packages(),
     install_requires=['kineticstoolkit'],
-    python_requires='>=3.8',
+    python_requires='>=3.10',
 )

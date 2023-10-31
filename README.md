@@ -1,24 +1,22 @@
-Refer to https://kineticstoolkit.uqam.ca/doc/extensions.html to know how to use this template repository to build your own extension, then delete this line.
+# kineticstoolkit_cycles
 
+Development module for kineticstoolkit.cycles.
 
-
-# kineticstoolkit_EXTENSIONNAME
-
-Please write a one-line description of your extension.
-
+This module is an experimental workspace for developing functions that may or
+may not be transferred at completion to kineticstoolkit.cycles.
 
 ## Installing
 
 ```
-pip install git+https://github.com/USERNAME/kineticstoolkit_EXTENSIONNAME
+pip install git+https://github.com/felixchenier/kineticstoolkit_cycles
 ```
 
 ## Uninstalling
 
 ```
-pip uninstall kineticstoolkit_EXTENSIONNAME
+pip uninstall kineticstoolkit_cycles
 ```
 
 ## How to use this extension
 
-Please write code examples and tutorials to teach others how to use your extension.
+TODO
